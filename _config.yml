@@ -10,7 +10,7 @@ twitter: "https://twitter.com/"
 github: "https://github.com/snehal-sas?tab=repositories"
 
 # Site config
-baseurl: "/PersonalWebsite"
+baseurl: ""
 highlighter: rouge
 sass:
   sass_dir: assets/scss
