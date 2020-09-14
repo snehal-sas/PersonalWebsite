@@ -1,0 +1,17 @@
+# User config
+author: "Snehal Shokeen"
+role: ""
+tagline: "Jekyll Certfied Theme"
+description: "Hi, I am a second-year CS student at the University of Wasington."
+keywords: "Snail's Website"
+email: "snehalshokeen@gmail.com"
+linkedin: "https://www.linkedin.com/in/snehal-shokeen-75a645186/"
+twitter: "https://twitter.com/"
+github: "https://github.com/snehal-sas?tab=repositories"
+
+# Site config
+baseurl: "/snehal"
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
